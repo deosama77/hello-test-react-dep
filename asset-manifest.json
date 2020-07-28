@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/deosama77/hello-test-react-dep/static/css/main.5f361e03.chunk.css",
-    "main.js": "/deosama77/hello-test-react-dep/static/js/main.df9f2004.chunk.js",
-    "main.js.map": "/deosama77/hello-test-react-dep/static/js/main.df9f2004.chunk.js.map",
-    "runtime-main.js": "/deosama77/hello-test-react-dep/static/js/runtime-main.96ef10ff.js",
-    "runtime-main.js.map": "/deosama77/hello-test-react-dep/static/js/runtime-main.96ef10ff.js.map",
-    "static/js/2.36ab9417.chunk.js": "/deosama77/hello-test-react-dep/static/js/2.36ab9417.chunk.js",
-    "static/js/2.36ab9417.chunk.js.map": "/deosama77/hello-test-react-dep/static/js/2.36ab9417.chunk.js.map",
-    "index.html": "/deosama77/hello-test-react-dep/index.html",
-    "precache-manifest.88f05c2d3c92faf85f889db40956cc30.js": "/deosama77/hello-test-react-dep/precache-manifest.88f05c2d3c92faf85f889db40956cc30.js",
-    "service-worker.js": "/deosama77/hello-test-react-dep/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/deosama77/hello-test-react-dep/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.36ab9417.chunk.js.LICENSE.txt": "/deosama77/hello-test-react-dep/static/js/2.36ab9417.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/deosama77/hello-test-react-dep/static/media/logo.5d5d9eef.svg"
+    "main.css": "/hello-test-react-dep/static/css/main.5f361e03.chunk.css",
+    "main.js": "/hello-test-react-dep/static/js/main.a19708de.chunk.js",
+    "main.js.map": "/hello-test-react-dep/static/js/main.a19708de.chunk.js.map",
+    "runtime-main.js": "/hello-test-react-dep/static/js/runtime-main.c60b3a6f.js",
+    "runtime-main.js.map": "/hello-test-react-dep/static/js/runtime-main.c60b3a6f.js.map",
+    "static/js/2.36ab9417.chunk.js": "/hello-test-react-dep/static/js/2.36ab9417.chunk.js",
+    "static/js/2.36ab9417.chunk.js.map": "/hello-test-react-dep/static/js/2.36ab9417.chunk.js.map",
+    "index.html": "/hello-test-react-dep/index.html",
+    "precache-manifest.6891c1704bf9f7e635e701934ba3f0ac.js": "/hello-test-react-dep/precache-manifest.6891c1704bf9f7e635e701934ba3f0ac.js",
+    "service-worker.js": "/hello-test-react-dep/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/hello-test-react-dep/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.36ab9417.chunk.js.LICENSE.txt": "/hello-test-react-dep/static/js/2.36ab9417.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/hello-test-react-dep/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.96ef10ff.js",
+    "static/js/runtime-main.c60b3a6f.js",
     "static/js/2.36ab9417.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.df9f2004.chunk.js"
+    "static/js/main.a19708de.chunk.js"
   ]
 }
